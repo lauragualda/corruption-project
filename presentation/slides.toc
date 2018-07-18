@@ -1,0 +1,7 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {2}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {3}{CGU Random Audits Anti-Corruption Program}{7}{0}{2}
+\beamer@sectionintoc {4}{Methodology}{11}{0}{3}
+\beamer@sectionintoc {5}{Results}{12}{0}{4}
+\beamer@sectionintoc {6}{Conclusion}{34}{0}{5}
+\beamer@sectionintoc {7}{References}{35}{0}{6}
